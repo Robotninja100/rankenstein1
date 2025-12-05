@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Rankenstein v9 mini",
+  "description": "A comprehensive, multi-featured application that serves as a unified tool for SEO and Content Creation, guiding creators through the entire content lifecycle from ideation and research to repurposing, drafting, and distribution.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
